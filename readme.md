@@ -31,10 +31,10 @@ izquierda a derecha:
 
 |IMAGEN| NOMBRE|
 |:------:|:------:|
-|1| |
-|2||
-|3| |
-|4| |
+|1| Michi|
+|2|Charlie|
+|3| Peter|
+|4| Juan|
 
 ### CLASE PARA CREAR EL OBJETO GATO
 ```java
