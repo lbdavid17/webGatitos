@@ -1,6 +1,5 @@
 # LA WEB DE LOS GATITOS :cat:
 
-PROYECTO DE PRÁCTICA DEL USO DE GIT Y MARKDOWN REALIZADO EN CLASE DE @kant003
 
 ![logo vue](gatos.jfif)
 
