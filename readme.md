@@ -42,11 +42,7 @@ class Cat{
     private String name;
     private String color;
 	private int age;
- 	Cat(String n, String c, double d) {
-		name=n;
-        color=c;
-        age=a;
-	}
+ 	Cat(String n, String c, double d) {name=n;color=c;age=a;}
 	public void setAge(int a){age = a;}
 	public void setColor(String c){color=c;}
     public void setName(String n){name=c;}
