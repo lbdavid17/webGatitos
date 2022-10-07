@@ -46,9 +46,7 @@ class Cat{
 	public void setAge(int a){age = a;}
 	public void setColor(String c){color=c;}
     public void setName(String n){name=c;}
-	}
 }
-
 ```
 
 ### VISUALIZACIÓN
